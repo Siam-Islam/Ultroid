@@ -19,7 +19,7 @@
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TeamUltroid/Ultroid/blob/main/LICENSE)
 [![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/TeamUltroid/Ultroid)
 
-----
+---
 
 # Deploy
 - [Heroku](#Deploy-to-Heroku)
